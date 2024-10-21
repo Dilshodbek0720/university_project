@@ -15,6 +15,7 @@ class _FadeTransitionExampleState extends State<FadeTransitionExample>
   late Animation<double> _animation;
   bool _isVisible = true;
 
+
   @override
   void initState() {
     super.initState();
