@@ -47,6 +47,7 @@ class _FadeTransitionExampleState extends State<FadeTransitionExample>
     });
   }
 
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
